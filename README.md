@@ -1,6 +1,6 @@
 ### 👋 Привет, я Никита.
 
-- Учусь в @yandex-praktikum
+ 🔥 Учусь в [@yandex-praktikum](https://github.com/yandex-praktikum)  <br/>
 
 ### Мой стек
 
