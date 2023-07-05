@@ -1,4 +1,13 @@
-### Hi there 👋
+### 👋 Привет, я Никита.
+
+- Учусь в @yandex-praktikum
+
+### Мой стек
+
+![](https://skillicons.dev/icons?i=js,html,css,babel,git,figma,nodejs,vscode&theme=light)
+
+### GitHub stats
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nika2pl&locale=en&theme=shadow_blue)
 
 <!--
 **nika2pl/nika2pl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
