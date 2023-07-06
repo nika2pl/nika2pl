@@ -1,6 +1,11 @@
 ### 👋 Привет, я Никита.
 
- 🔥 Учусь в [@yandex-praktikum](https://github.com/yandex-praktikum)  <br/>
+
+ 🔥 Учусь в [@yandex-praktikum](https://github.com/yandex-praktikum)
+
+ ✨ Интересуюсь околоайти тематикой
+
+ ⚡ Люблю читать хабр и vc.ru
 
 ### Мой стек
 
@@ -8,18 +13,3 @@
 
 ### GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nika2pl&locale=en&theme=shadow_blue)
-
-<!--
-**nika2pl/nika2pl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
